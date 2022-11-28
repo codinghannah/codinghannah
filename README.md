@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @codinghannah
 - 👀 I’m interested in a fully remote software engineering role
-- 🌱 I’m currently learning HTML & CSS
+- 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on a beginner friendly project with another female coder!
 - 📫 Reach me by email at hearly325@gmail.com
 
